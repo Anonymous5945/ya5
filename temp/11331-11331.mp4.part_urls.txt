@@ -1,0 +1,108 @@
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/init.mp4
+	out=11331-11331.mp4_fragment_1.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_0.m4s
+	out=11331-11331.mp4_fragment_2.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_1.m4s
+	out=11331-11331.mp4_fragment_3.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_2.m4s
+	out=11331-11331.mp4_fragment_4.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_3.m4s
+	out=11331-11331.mp4_fragment_5.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_4.m4s
+	out=11331-11331.mp4_fragment_6.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_5.m4s
+	out=11331-11331.mp4_fragment_7.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_6.m4s
+	out=11331-11331.mp4_fragment_8.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_7.m4s
+	out=11331-11331.mp4_fragment_9.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_8.m4s
+	out=11331-11331.mp4_fragment_10.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_9.m4s
+	out=11331-11331.mp4_fragment_11.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_10.m4s
+	out=11331-11331.mp4_fragment_12.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_11.m4s
+	out=11331-11331.mp4_fragment_13.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_12.m4s
+	out=11331-11331.mp4_fragment_14.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_13.m4s
+	out=11331-11331.mp4_fragment_15.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_14.m4s
+	out=11331-11331.mp4_fragment_16.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_15.m4s
+	out=11331-11331.mp4_fragment_17.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_16.m4s
+	out=11331-11331.mp4_fragment_18.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_17.m4s
+	out=11331-11331.mp4_fragment_19.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_18.m4s
+	out=11331-11331.mp4_fragment_20.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_19.m4s
+	out=11331-11331.mp4_fragment_21.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_20.m4s
+	out=11331-11331.mp4_fragment_22.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_21.m4s
+	out=11331-11331.mp4_fragment_23.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_22.m4s
+	out=11331-11331.mp4_fragment_24.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_23.m4s
+	out=11331-11331.mp4_fragment_25.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_24.m4s
+	out=11331-11331.mp4_fragment_26.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_25.m4s
+	out=11331-11331.mp4_fragment_27.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_26.m4s
+	out=11331-11331.mp4_fragment_28.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_27.m4s
+	out=11331-11331.mp4_fragment_29.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_28.m4s
+	out=11331-11331.mp4_fragment_30.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_29.m4s
+	out=11331-11331.mp4_fragment_31.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_30.m4s
+	out=11331-11331.mp4_fragment_32.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_31.m4s
+	out=11331-11331.mp4_fragment_33.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_32.m4s
+	out=11331-11331.mp4_fragment_34.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_33.m4s
+	out=11331-11331.mp4_fragment_35.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_34.m4s
+	out=11331-11331.mp4_fragment_36.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_35.m4s
+	out=11331-11331.mp4_fragment_37.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_36.m4s
+	out=11331-11331.mp4_fragment_38.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_37.m4s
+	out=11331-11331.mp4_fragment_39.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_38.m4s
+	out=11331-11331.mp4_fragment_40.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_39.m4s
+	out=11331-11331.mp4_fragment_41.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_40.m4s
+	out=11331-11331.mp4_fragment_42.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_41.m4s
+	out=11331-11331.mp4_fragment_43.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_42.m4s
+	out=11331-11331.mp4_fragment_44.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_43.m4s
+	out=11331-11331.mp4_fragment_45.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_44.m4s
+	out=11331-11331.mp4_fragment_46.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_45.m4s
+	out=11331-11331.mp4_fragment_47.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_46.m4s
+	out=11331-11331.mp4_fragment_48.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_47.m4s
+	out=11331-11331.mp4_fragment_49.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_48.m4s
+	out=11331-11331.mp4_fragment_50.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_49.m4s
+	out=11331-11331.mp4_fragment_51.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_50.m4s
+	out=11331-11331.mp4_fragment_52.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_51.m4s
+	out=11331-11331.mp4_fragment_53.m4s
+https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/video/1080_4800000/cenc_dash/segment_52.m4s
+	out=11331-11331.mp4_fragment_54.m4s
